@@ -44,10 +44,9 @@ classes and real namespaces.
 
 ## Requirements
 
-- PHP 5.3.0+ (when first released), now it works fine with current stable versions PHP 5.6 and 7.1, 7.2., 7.3 and 7.4. 
-  The latest PHP 8.0 is not tested yet but should also work fine.
+- PHP 5.3.0+ (when first released). The application works fine with modern PHP versions and is tested with PHP 8.3.
 - MySQL
-- mod_rewrite activated (tutorials below, but there's also [TINY](https://github.com/panique/tiny), a mod_rewrite-less 
+- mod_rewrite activated (tutorials below, but there's also [TINY](https://github.com/panique/tiny), a mod_rewrite-less
 version of MINI)
 
 ## Installation (in Vagrant, 100% automatic)
